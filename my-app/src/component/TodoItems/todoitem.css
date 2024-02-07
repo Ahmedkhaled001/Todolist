@@ -1,0 +1,25 @@
+.todo-item {
+  display: flex;
+  align-items: center;
+  width: 82%;
+  background-color: #fff;
+  border-radius: 21px;
+  margin: 6px 4px;
+  height: auto;
+  padding: 8px 40px;
+  }
+  .todo-item > label {
+    flex: 1;
+    font-size: 25px;
+    font-family: cursive;
+  }
+  .todo-item .checkbox {
+    margin: 0 10px;
+    width: 16px;
+    height: 30px;
+    cursor: pointer;
+  }
+  .todo-item .active {
+    text-decoration: line-through;
+  }
+  

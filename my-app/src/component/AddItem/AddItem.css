@@ -1,0 +1,12 @@
+.input-field{
+    height: 43px;
+    width: 316px;
+    border-radius: 10px;
+    margin-right: 1px;
+    font-size: 20px;
+    padding-left: 11px;
+}
+
+.input-contain{
+    margin-top: 20px;
+}
